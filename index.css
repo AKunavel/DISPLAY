@@ -1,0 +1,54 @@
+h1{
+    text-transform: uppercase;
+}
+.none{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+   display: none;
+}
+span{
+    display: block;
+    color: aqua;
+    background-color: orange;
+    width: 200ppx;
+    height: 40px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.a1:hover{
+    background-color:blueviolet;  
+}
+.b1{
+    background-color: yellow;
+    height: 50px;
+    width: 50;
+    display: inline;
+    text-transform: uppercase;
+}
+
+.b2{
+    background-color: pink;
+    height: 50px;
+    width: 50;
+    display: inline;
+    text-transform: uppercase;
+}
+.c1{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    color: orange;
+    background-color: brown;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.c2{
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    color:red;
+    background-color: violet;
+    text-transform: uppercase;
+    padding: 20px;
+}
